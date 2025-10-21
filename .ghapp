@@ -1,0 +1,10 @@
+{
+  "id": 90947268,
+  "created_at": "2025-10-21T10:51:53.000Z",
+  "repository_selection": "selected",
+  "permissions": {
+    "metadata": "read",
+    "statuses": "write"
+  },
+  "repositories": ["Rhdf5lib", "rhdf5", "biomaRt", "rhdf5filters", "Rarr"]
+}
