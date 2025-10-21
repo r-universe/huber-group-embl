@@ -1,4 +1,19 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/huber-group-embl/huber-group-embl.r-universe.dev
 	branch = HEAD
+[submodule "Rarr"]
+	path = Rarr
+	url = https://github.com/Huber-group-EMBL/Rarr
+[submodule "Rhdf5lib"]
+	path = Rhdf5lib
+	url = https://github.com/Huber-group-EMBL/Rhdf5lib
+[submodule "biomaRt"]
+	path = biomaRt
+	url = https://github.com/Huber-group-EMBL/biomaRt
+[submodule "rhdf5"]
+	path = rhdf5
+	url = https://github.com/Huber-group-EMBL/rhdf5
+[submodule "rhdf5filters"]
+	path = rhdf5filters
+	url = https://github.com/Huber-group-EMBL/rhdf5filters
