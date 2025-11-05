@@ -8,6 +8,7 @@
 [submodule "Rhdf5lib"]
 	path = Rhdf5lib
 	url = https://github.com/Huber-group-EMBL/Rhdf5lib
+	branch = test-wasm
 [submodule "biomaRt"]
 	path = biomaRt
 	url = https://github.com/Huber-group-EMBL/biomaRt
