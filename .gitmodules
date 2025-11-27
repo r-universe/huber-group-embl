@@ -2,6 +2,24 @@
 	path = .registry
 	url = https://github.com/huber-group-embl/huber-group-embl.r-universe.dev
 	branch = HEAD
+[submodule "DESeq2"]
+	path = DESeq2
+	url = https://github.com/thelovelab/DESeq2
+[submodule "DEXSeq"]
+	path = DEXSeq
+	url = https://github.com/areyesq89/DEXSeq
+[submodule "EBImage"]
+	path = EBImage
+	url = https://github.com/aoles/EBImage
+[submodule "HilbertVis"]
+	path = HilbertVis
+	url = https://git.bioconductor.org/packages/HilbertVis
+[submodule "IHW"]
+	path = IHW
+	url = https://github.com/nignatiadis/IHW
+[submodule "MOFA2"]
+	path = MOFA2
+	url = https://github.com/bioFAM/MOFA2
 [submodule "Rarr"]
 	path = Rarr
 	url = https://github.com/Huber-group-EMBL/Rarr
@@ -12,9 +30,15 @@
 [submodule "biomaRt"]
 	path = biomaRt
 	url = https://github.com/Huber-group-EMBL/biomaRt
+[submodule "lemur"]
+	path = lemur
+	url = https://github.com/const-ae/lemur
 [submodule "rhdf5"]
 	path = rhdf5
 	url = https://github.com/Huber-group-EMBL/rhdf5
 [submodule "rhdf5filters"]
 	path = rhdf5filters
 	url = https://github.com/Huber-group-EMBL/rhdf5filters
+[submodule "vsn"]
+	path = vsn
+	url = https://github.com/Huber-group-EMBL/vsn
