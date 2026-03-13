@@ -41,6 +41,9 @@
 [submodule "rhdf5filters"]
 	path = rhdf5filters
 	url = https://github.com/Huber-group-EMBL/rhdf5filters
+[submodule "splots"]
+	path = splots
+	url = https://git.bioconductor.org/packages/splots
 [submodule "vsn"]
 	path = vsn
 	url = https://github.com/Huber-group-EMBL/vsn
