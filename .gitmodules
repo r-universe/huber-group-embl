@@ -26,7 +26,6 @@
 [submodule "Rhdf5lib"]
 	path = Rhdf5lib
 	url = https://github.com/Huber-group-EMBL/Rhdf5lib
-	branch = more-winlibs
 [submodule "arrayQualityMetrics"]
 	path = arrayQualityMetrics
 	url = https://github.com/grimbough/arrayQualityMetrics
