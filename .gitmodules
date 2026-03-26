@@ -25,7 +25,7 @@
 	url = https://github.com/Huber-group-EMBL/Rhdf5lib
 [submodule "arrayQualityMetrics"]
 	path = arrayQualityMetrics
-	url = https://github.com/grimbough/arrayQualityMetrics
+	url = https://git.bioconductor.org/packages/arrayQualityMetrics
 [submodule "biomaRt"]
 	path = biomaRt
 	url = https://github.com/Huber-group-EMBL/biomaRt
