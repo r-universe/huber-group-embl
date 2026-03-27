@@ -17,6 +17,9 @@
 [submodule "IHW"]
 	path = IHW
 	url = https://github.com/nignatiadis/IHW
+[submodule "MSMB"]
+	path = MSMB
+	url = https://git.bioconductor.org/packages/MSMB
 [submodule "Rarr"]
 	path = Rarr
 	url = https://github.com/Huber-group-EMBL/Rarr
