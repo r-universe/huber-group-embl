@@ -7,7 +7,7 @@
 	url = https://github.com/thelovelab/DESeq2
 [submodule "DEXSeq"]
 	path = DEXSeq
-	url = https://github.com/areyesq89/DEXSeq
+	url = https://github.com/Huber-group-EMBL/DEXSeq
 [submodule "EBImage"]
 	path = EBImage
 	url = https://github.com/aoles/EBImage
