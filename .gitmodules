@@ -10,7 +10,7 @@
 	url = https://github.com/Huber-group-EMBL/DEXSeq
 [submodule "EBImage"]
 	path = EBImage
-	url = https://github.com/aoles/EBImage
+	url = https://github.com/Huber-group-EMBL/EBImage
 [submodule "HilbertVis"]
 	path = HilbertVis
 	url = https://git.bioconductor.org/packages/HilbertVis
