@@ -26,6 +26,9 @@
 [submodule "Rhdf5lib"]
 	path = Rhdf5lib
 	url = https://github.com/Huber-group-EMBL/Rhdf5lib
+[submodule "ZarrArray"]
+	path = ZarrArray
+	url = https://github.com/Bioconductor/ZarrArray
 [submodule "arrayQualityMetrics"]
 	path = arrayQualityMetrics
 	url = https://github.com/Huber-group-EMBL/arrayQualityMetrics
