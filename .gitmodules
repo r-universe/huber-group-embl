@@ -44,6 +44,9 @@
 [submodule "rhdf5filters"]
 	path = rhdf5filters
 	url = https://github.com/Huber-group-EMBL/rhdf5filters
+[submodule "romeo"]
+	path = romeo
+	url = https://github.com/Huber-group-EMBL/romeo
 [submodule "splots"]
 	path = splots
 	url = https://git.bioconductor.org/packages/splots
