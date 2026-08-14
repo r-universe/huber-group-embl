@@ -11,6 +11,9 @@
 [submodule "EBImage"]
 	path = EBImage
 	url = https://github.com/Huber-group-EMBL/EBImage
+[submodule "Hiiragi2013"]
+	path = Hiiragi2013
+	url = https://github.com/Huber-group-EMBL/Hiiragi2013
 [submodule "HilbertVis"]
 	path = HilbertVis
 	url = https://git.bioconductor.org/packages/HilbertVis
@@ -35,9 +38,15 @@
 [submodule "biomaRt"]
 	path = biomaRt
 	url = https://github.com/Huber-group-EMBL/biomaRt
+[submodule "davidTiling"]
+	path = davidTiling
+	url = https://github.com/Huber-group-EMBL/davidTiling
 [submodule "lemur"]
 	path = lemur
 	url = https://github.com/const-ae/lemur
+[submodule "remart"]
+	path = remart
+	url = https://github.com/Huber-group-EMBL/remart
 [submodule "rhdf5"]
 	path = rhdf5
 	url = https://github.com/Huber-group-EMBL/rhdf5
