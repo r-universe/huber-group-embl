@@ -38,6 +38,9 @@
 [submodule "biomaRt"]
 	path = biomaRt
 	url = https://github.com/Huber-group-EMBL/biomaRt
+[submodule "davidTiling"]
+	path = davidTiling
+	url = https://github.com/Huber-group-EMBL/davidTiling
 [submodule "lemur"]
 	path = lemur
 	url = https://github.com/const-ae/lemur
