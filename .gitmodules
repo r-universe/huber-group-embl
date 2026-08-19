@@ -11,6 +11,9 @@
 [submodule "EBImage"]
 	path = EBImage
 	url = https://github.com/Huber-group-EMBL/EBImage
+[submodule "HD2013SGI"]
+	path = HD2013SGI
+	url = https://github.com/Huber-group-EMBL/HD2013SGI
 [submodule "Hiiragi2013"]
 	path = Hiiragi2013
 	url = https://github.com/Huber-group-EMBL/Hiiragi2013
