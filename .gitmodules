@@ -62,6 +62,9 @@
 [submodule "splots"]
 	path = splots
 	url = https://git.bioconductor.org/packages/splots
+[submodule "tilingArray"]
+	path = tilingArray
+	url = https://git.bioconductor.org/packages/tilingArray
 [submodule "vsn"]
 	path = vsn
 	url = https://github.com/Huber-group-EMBL/vsn
